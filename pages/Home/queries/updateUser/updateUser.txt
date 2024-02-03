@@ -1,0 +1,5 @@
+{{
+
+_.omit(Table1.updatedRow,'id')
+ 
+}}
